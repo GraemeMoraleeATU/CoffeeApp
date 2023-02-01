@@ -1,0 +1,26 @@
+[
+{
+  "Order": "Order Number: 01",
+  "Details": "1 Cup of Coffee",
+  "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "Type" : "Drinks Only",
+  "Alergens" : "None",
+  "Price": "€3.50"
+},
+{
+  "Order": "Order Number: 02",
+  "Details": "2 Cups of Tea, 1 Cup of Coffee",
+  "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "Type" : "Drinks Only",
+  "Alergens" : "None",
+  "Price": "€7.50"
+},
+{
+  "Order": "Order Number: 03",
+  "Details": "2 Cups of Tea, 1 Toast and Jam",
+  "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "Type" : "Drinks Only",
+  "Alergens" : "Gluten",
+  "Price": "€8.50"
+}
+]
