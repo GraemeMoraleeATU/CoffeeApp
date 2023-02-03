@@ -1,11 +1,14 @@
 [
 {
-  "Order": "Order Number: 01",
+  "Order": "Order Number: 03",
   "Details": "1 Cup of Coffee",
   "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
   "Type" : "Drinks Only",
   "Alergens" : "None",
-  "Price": "€3.50"
+  "Price": "€3.50",
+  "OrderStatus" : "Ready For Collection",
+  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeInformation" : "This order ready for collection. Please scan this QR code at your local CoffeeDocker to collect your order."
 },
 {
   "Order": "Order Number: 02",
@@ -13,14 +16,20 @@
   "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
   "Type" : "Drinks Only",
   "Alergens" : "None",
-  "Price": "€7.50"
+  "Price": "€7.50",
+  "OrderStatus" : "Complete",
+  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeInformation" : "This order is completed. The QR code has been scanned and the order has been collected."
 },
 {
-  "Order": "Order Number: 03",
+  "Order": "Order Number: 01",
   "Details": "2 Cups of Tea, 1 Toast and Jam",
   "Image": "https://avatars.githubusercontent.com/u/1676321?v=4",
   "Type" : "Drinks Only",
   "Alergens" : "Gluten",
-  "Price": "€8.50"
+  "Price": "€8.50",
+  "OrderStatus" : "Complete",
+  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeInformation" : "This order is completed. The QR code has been scanned and the order has been collected."
 }
 ]
