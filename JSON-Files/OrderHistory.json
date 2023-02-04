@@ -2,34 +2,34 @@
 {
   "Order": "Order Number: 03",
   "Details": "1 Cup of Coffee",
-  "Image": "https://i.imgur.com/yKtYNhZ.png",
+  "Image": "https://i.imgur.com/5OiVVOp.png",
   "Type" : "Drinks Only",
   "Alergens" : "None",
   "Price": "€3.50",
   "OrderStatus" : "Ready For Collection",
-  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeImage": "https://i.imgur.com/mMYzm7T.png",
   "QRCodeInformation" : "This order ready for collection. Please scan this QR code at your local CoffeeDocker to collect your order."
 },
 {
   "Order": "Order Number: 02",
   "Details": "2 Cups of Tea, 1 Cup of Coffee",
-  "Image": "https://i.imgur.com/yKtYNhZ.png",
+  "Image": "https://i.imgur.com/5OiVVOp.png",
   "Type" : "Drinks Only",
   "Alergens" : "None",
   "Price": "€7.50",
   "OrderStatus" : "Complete",
-  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeImage": "https://i.imgur.com/mMdN1VP.png",
   "QRCodeInformation" : "This order is completed. The QR code has been scanned and the order has been collected."
 },
 {
   "Order": "Order Number: 01",
   "Details": "2 Cups of Tea, 1 Toast and Jam",
-  "Image": "https://i.imgur.com/bBavclu.png",
+  "Image": "https://i.imgur.com/FR9RvzE.png",
   "Type" : "Food Order",
   "Alergens" : "Gluten",
   "Price": "€8.50",
   "OrderStatus" : "Complete",
-  "QRCodeImage": "https://avatars.githubusercontent.com/u/1676321?v=4",
+  "QRCodeImage": "https://i.imgur.com/mMdN1VP.png",
   "QRCodeInformation" : "This order is completed. The QR code has been scanned and the order has been collected."
 }
 ]
